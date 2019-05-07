@@ -1,0 +1,112 @@
+[DEBUG] (Thread-1  ) Start Counting 2-Point
+[DEBUG] (Thread-1  ) Run 10
+[DEBUG] (Thread-2  ) Start Counting Uniform
+[DEBUG] (Thread-3  ) Start Deceptive Tight 2-Point
+[DEBUG] (Thread-2  ) Run 10
+[DEBUG] (Thread-4  ) Start Deceptive Tight Uniform
+[DEBUG] (Thread-3  ) Run 10
+[DEBUG] (Thread-5  ) Start Non-Deceptive Tight 2-Point
+[DEBUG] (Thread-6  ) Start Non-Deceptive Tight Uniform
+[DEBUG] (Thread-4  ) Run 10
+[DEBUG] (Thread-7  ) Start Deceptive Random 2-Point
+[DEBUG] (Thread-8  ) Start Deceptive Random Uniform
+[DEBUG] (Thread-5  ) Run 10
+[DEBUG] (Thread-9  ) Start Non-Deceptive Random 2-Point
+[DEBUG] (Thread-6  ) Run 10
+[DEBUG] (Thread-10 ) Start Non-Deceptive Random Uniform
+[DEBUG] (Thread-7  ) Run 10
+[DEBUG] (Thread-1  ) Run 20
+[DEBUG] (Thread-8  ) Run 10
+[DEBUG] (Thread-9  ) Run 10
+[DEBUG] (Thread-10 ) Run 10
+[DEBUG] (Thread-3  ) Run 20
+[DEBUG] (Thread-5  ) Run 20
+[DEBUG] (Thread-7  ) Run 20
+[DEBUG] (Thread-9  ) Run 20
+[DEBUG] (Thread-1  ) Run 40
+[DEBUG] (Thread-2  ) Run 20
+[DEBUG] (Thread-3  ) Run 40
+[DEBUG] (Thread-5  ) Run 40
+[DEBUG] (Thread-7  ) Run 40
+[DEBUG] (Thread-6  ) Run 20
+[DEBUG] (Thread-9  ) Run 40
+[DEBUG] (Thread-4  ) Run 20
+[DEBUG] (Thread-8  ) Run 20
+[DEBUG] (Thread-10 ) Run 20
+[DEBUG] (Thread-1  ) Run 80
+[DEBUG] (Thread-3  ) Run 80
+[DEBUG] (Thread-5  ) Run 80
+[DEBUG] (Thread-2  ) Run 40
+[DEBUG] (Thread-7  ) Run 80
+[DEBUG] (Thread-9  ) Run 80
+[DEBUG] (Thread-1  ) Run 160
+[DEBUG] (Thread-6  ) Run 40
+[DEBUG] (Thread-4  ) Run 40
+[DEBUG] (Thread-8  ) Run 40
+[DEBUG] (Thread-10 ) Run 40
+[DEBUG] (Thread-5  ) Run 160
+[DEBUG] (Thread-3  ) Run 160
+[DEBUG] (Thread-2  ) Run 30
+[DEBUG] (Thread-1  ) Run 120
+[DEBUG] (Thread-7  ) Run 160
+[DEBUG] (Thread-9  ) Run 160
+[DEBUG] (Thread-2  ) Done 40
+[DEBUG] (Thread-1  ) Run 140
+[DEBUG] (Thread-5  ) Run 320
+[DEBUG] (Thread-1  ) Run 150
+[DEBUG] (Thread-3  ) Run 320
+[DEBUG] (Thread-4  ) Run 80
+[DEBUG] (Thread-6  ) Run 80
+[DEBUG] (Thread-8  ) Run 80
+[DEBUG] (Thread-10 ) Run 80
+[DEBUG] (Thread-1  ) Done 150
+[DEBUG] (Thread-7  ) Run 320
+[DEBUG] (Thread-9  ) Run 320
+[DEBUG] (Thread-5  ) Run 640
+[DEBUG] (Thread-3  ) Run 640
+[DEBUG] (Thread-4  ) Run 160
+[DEBUG] (Thread-6  ) Run 160
+[DEBUG] (Thread-10 ) Run 160
+[DEBUG] (Thread-8  ) Run 160
+[DEBUG] (Thread-5  ) Run 480
+[DEBUG] (Thread-7  ) Run 640
+[DEBUG] (Thread-9  ) Run 640
+[DEBUG] (Thread-3  ) Run 480
+[DEBUG] (Thread-5  ) Run 400
+[DEBUG] (Thread-5  ) Run 360
+[DEBUG] (Thread-3  ) Run 560
+[DEBUG] (Thread-6  ) Run 320
+[DEBUG] (Thread-5  ) Run 340
+[DEBUG] (Thread-10 ) Run 320
+[DEBUG] (Thread-4  ) Run 320
+[DEBUG] (Thread-8  ) Run 320
+[DEBUG] (Thread-5  ) Run 350
+[DEBUG] (Thread-3  ) Run 520
+[DEBUG] (Thread-7  ) Run 1280
+[DEBUG] (Thread-9  ) Run 1280
+[DEBUG] (Thread-5  ) Done 360
+[DEBUG] (Thread-3  ) Run 540
+[DEBUG] (Thread-3  ) Run 550
+[DEBUG] (Thread-6  ) Run 640
+[DEBUG] (Thread-10 ) Run 640
+[DEBUG] (Thread-3  ) Done 560
+[DEBUG] (Thread-4  ) Run 640
+[DEBUG] (Thread-8  ) Run 640
+[DEBUG] (Thread-9  ) Abort
+[DEBUG] (Thread-7  ) Abort
+[DEBUG] (Thread-6  ) Run 480
+[DEBUG] (Thread-10 ) Run 480
+[DEBUG] (Thread-6  ) Run 400
+[DEBUG] (Thread-10 ) Run 560
+[DEBUG] (Thread-6  ) Run 440
+[DEBUG] (Thread-4  ) Run 1280
+[DEBUG] (Thread-8  ) Run 1280
+[DEBUG] (Thread-10 ) Run 520
+[DEBUG] (Thread-6  ) Run 420
+[DEBUG] (Thread-10 ) Run 500
+[DEBUG] (Thread-6  ) Run 430
+[DEBUG] (Thread-6  ) Done 440
+[DEBUG] (Thread-10 ) Run 490
+[DEBUG] (Thread-10 ) Done 490
+[DEBUG] (Thread-4  ) Abort
+[DEBUG] (Thread-8  ) Abort

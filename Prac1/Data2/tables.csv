@@ -1,0 +1,7 @@
+Fitness Function;Crossover Function;Population Size;Average Generations;Average Evaluations;Average Time
+Counting;Uniform;40;29.28;1171.2;1.486234016418457
+Counting;2-Point;150;38.36;5754.0;1.2596784687042237
+Non-Deceptive Tight;2-Point;360;34.28;12340.800000000001;4.370187273025513
+Deceptive Tight;2-Point;560;42.44;23766.399999999998;8.29696445465088
+Non-Deceptive Tight;Uniform;440;68.08;29955.2;18.067961587905884
+Non-Deceptive Random;Uniform;490;67.72;33182.8;16.114818115234375

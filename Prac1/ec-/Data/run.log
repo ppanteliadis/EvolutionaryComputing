@@ -1,0 +1,104 @@
+[DEBUG] (Thread-1  ) Start Counting 2-Point
+[DEBUG] (Thread-1  ) Run 10
+[DEBUG] (Thread-2  ) Start Counting Uniform
+[DEBUG] (Thread-3  ) Start Deceptive Tight 2-Point
+[DEBUG] (Thread-2  ) Run 10
+[DEBUG] (Thread-4  ) Start Deceptive Tight Uniform
+[DEBUG] (Thread-3  ) Run 10
+[DEBUG] (Thread-5  ) Start Non-Deceptive Tight 2-Point
+[DEBUG] (Thread-6  ) Start Non-Deceptive Tight Uniform
+[DEBUG] (Thread-4  ) Run 10
+[DEBUG] (Thread-7  ) Start Deceptive Random 2-Point
+[DEBUG] (Thread-5  ) Run 10
+[DEBUG] (Thread-8  ) Start Deceptive Random Uniform
+[DEBUG] (Thread-6  ) Run 10
+[DEBUG] (Thread-9  ) Start Non-Deceptive Random 2-Point
+[DEBUG] (Thread-7  ) Run 10
+[DEBUG] (Thread-10 ) Start Non-Deceptive Random Uniform
+[DEBUG] (Thread-8  ) Run 10
+[DEBUG] (Thread-1  ) Run 20
+[DEBUG] (Thread-9  ) Run 10
+[DEBUG] (Thread-10 ) Run 10
+[DEBUG] (Thread-3  ) Run 20
+[DEBUG] (Thread-5  ) Run 20
+[DEBUG] (Thread-7  ) Run 20
+[DEBUG] (Thread-9  ) Run 20
+[DEBUG] (Thread-1  ) Run 40
+[DEBUG] (Thread-3  ) Run 40
+[DEBUG] (Thread-2  ) Run 20
+[DEBUG] (Thread-5  ) Run 40
+[DEBUG] (Thread-4  ) Run 20
+[DEBUG] (Thread-7  ) Run 40
+[DEBUG] (Thread-9  ) Run 40
+[DEBUG] (Thread-6  ) Run 20
+[DEBUG] (Thread-1  ) Run 80
+[DEBUG] (Thread-8  ) Run 20
+[DEBUG] (Thread-10 ) Run 20
+[DEBUG] (Thread-5  ) Run 80
+[DEBUG] (Thread-3  ) Run 80
+[DEBUG] (Thread-2  ) Run 40
+[DEBUG] (Thread-9  ) Run 80
+[DEBUG] (Thread-1  ) Run 160
+[DEBUG] (Thread-7  ) Run 80
+[DEBUG] (Thread-1  ) Start Counting 2-Point
+[DEBUG] (Thread-1  ) Run 10
+[DEBUG] (Thread-2  ) Start Counting Uniform
+[DEBUG] (Thread-2  ) Run 10
+[DEBUG] (Thread-3  ) Start Deceptive Tight 2-Point
+[DEBUG] (Thread-4  ) Start Deceptive Tight Uniform
+[DEBUG] (Thread-3  ) Run 10
+[DEBUG] (Thread-5  ) Start Non-Deceptive Tight 2-Point
+[DEBUG] (Thread-4  ) Run 10
+[DEBUG] (Thread-6  ) Start Non-Deceptive Tight Uniform
+[DEBUG] (Thread-7  ) Start Deceptive Random 2-Point
+[DEBUG] (Thread-5  ) Run 10
+[DEBUG] (Thread-6  ) Run 10
+[DEBUG] (Thread-8  ) Start Deceptive Random Uniform
+[DEBUG] (Thread-7  ) Run 10
+[DEBUG] (Thread-9  ) Start Non-Deceptive Random 2-Point
+[DEBUG] (Thread-1  ) Run 20
+[DEBUG] (Thread-10 ) Start Non-Deceptive Random Uniform
+[DEBUG] (Thread-8  ) Run 10
+[DEBUG] (Thread-9  ) Run 10
+[DEBUG] (Thread-10 ) Run 10
+[DEBUG] (Thread-5  ) Run 20
+[DEBUG] (Thread-3  ) Run 20
+[DEBUG] (Thread-7  ) Run 20
+[DEBUG] (Thread-9  ) Run 20
+[DEBUG] (Thread-1  ) Run 40
+[DEBUG] (Thread-1  ) Start Counting 2-Point
+[DEBUG] (Thread-1  ) Run 10
+[DEBUG] (Thread-2  ) Start Counting Uniform
+[DEBUG] (Thread-3  ) Start Deceptive Tight 2-Point
+[DEBUG] (Thread-2  ) Run 10
+[DEBUG] (Thread-3  ) Run 10
+[DEBUG] (Thread-4  ) Start Deceptive Tight Uniform
+[DEBUG] (Thread-5  ) Start Non-Deceptive Tight 2-Point
+[DEBUG] (Thread-6  ) Start Non-Deceptive Tight Uniform
+[DEBUG] (Thread-7  ) Start Deceptive Random 2-Point
+[DEBUG] (Thread-4  ) Run 10
+[DEBUG] (Thread-5  ) Run 10
+[DEBUG] (Thread-6  ) Run 10
+[DEBUG] (Thread-8  ) Start Deceptive Random Uniform
+[DEBUG] (Thread-9  ) Start Non-Deceptive Random 2-Point
+[DEBUG] (Thread-7  ) Run 10
+[DEBUG] (Thread-10 ) Start Non-Deceptive Random Uniform
+[DEBUG] (Thread-1  ) Run 20
+[DEBUG] (Thread-8  ) Run 10
+[DEBUG] (Thread-9  ) Run 10
+[DEBUG] (Thread-10 ) Run 10
+[DEBUG] (Thread-3  ) Run 20
+[DEBUG] (Thread-5  ) Run 20
+[DEBUG] (Thread-7  ) Run 20
+[DEBUG] (Thread-9  ) Run 20
+[DEBUG] (Thread-1  ) Run 40
+[DEBUG] (Thread-3  ) Run 40
+[DEBUG] (Thread-5  ) Run 40
+[DEBUG] (Thread-7  ) Run 40
+[DEBUG] (Thread-9  ) Run 40
+[DEBUG] (Thread-2  ) Run 20
+[DEBUG] (Thread-6  ) Run 20
+[DEBUG] (Thread-4  ) Run 20
+[DEBUG] (Thread-10 ) Run 20
+[DEBUG] (Thread-8  ) Run 20
+[DEBUG] (Thread-1  ) Run 80

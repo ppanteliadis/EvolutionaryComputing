@@ -1,0 +1,51 @@
+=====================
+K = 18
+BestFitness	Seconds	Generations	VertexDescentSteps
+48	29	0	210062
+24	56	1	211708
+20	81	2	201005
+12	110	3	236853
+3	137	4	222027
+0	164	5	232222
+0 fitness, 164 seconds, 6 generations
+=====================
+=====================
+K = 17
+BestFitness	Seconds	Generations	VertexDescentSteps
+79	26	0	186265
+59	53	1	199841
+43	80	2	196205
+41	107	3	199579
+17	132	4	180182
+1	158	5	186547
+0	186	6	206680
+0 fitness, 186 seconds, 7 generations
+=====================
+=====================
+K = 16
+BestFitness	Seconds	Generations	VertexDescentSteps
+98	27	0	180498
+65	54	1	183468
+65	79	2	173436
+5	106	3	184449
+1	133	4	174240
+1	158	5	159431
+0	179	6	134546
+0 fitness, 179 seconds, 7 generations
+=====================
+=====================
+K = 15
+BestFitness	Seconds	Generations	VertexDescentSteps
+144	26	0	169134
+144	50	1	159189
+123	76	2	170958
+123	99	3	154232
+75	121	4	142732
+63	143	5	147173
+14	164	6	144169
+4	178	7	112499
+4	189	8	83332
+4	198	9	52993
+0	204	10	26064
+0 fitness, 204 seconds, 11 generations
+=====================

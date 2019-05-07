@@ -1,0 +1,93 @@
+Fitness Function;Crossover Function;Population Size;Successes
+Counting;2-Point;10;0
+Deceptive Tight;2-Point;10;0
+Non-Deceptive Tight;2-Point;10;0
+Deceptive Random;2-Point;10;0
+Non-Deceptive Random;2-Point;10;0
+Counting;2-Point;20;0
+Counting;Uniform;10;0
+Deceptive Tight;2-Point;20;0
+Non-Deceptive Tight;2-Point;20;0
+Deceptive Random;2-Point;20;0
+Non-Deceptive Tight;Uniform;10;0
+Non-Deceptive Random;2-Point;20;0
+Deceptive Tight;Uniform;10;0
+Deceptive Random;Uniform;10;0
+Non-Deceptive Random;Uniform;10;0
+Counting;2-Point;40;0
+Deceptive Tight;2-Point;40;0
+Non-Deceptive Tight;2-Point;40;0
+Counting;Uniform;20;2
+Deceptive Random;2-Point;40;0
+Non-Deceptive Random;2-Point;40;0
+Counting;2-Point;80;5
+Non-Deceptive Tight;Uniform;20;0
+Deceptive Tight;Uniform;20;0
+Deceptive Random;Uniform;20;0
+Non-Deceptive Random;Uniform;20;0
+Non-Deceptive Tight;2-Point;80;0
+Deceptive Tight;2-Point;80;0
+Counting;Uniform;40;24
+Counting;2-Point;160;25
+Deceptive Random;2-Point;80;0
+Non-Deceptive Random;2-Point;80;0
+Counting;Uniform;30;16
+Counting;2-Point;120;19
+Non-Deceptive Tight;2-Point;160;11
+Counting;2-Point;140;22
+Deceptive Tight;2-Point;160;0
+Deceptive Tight;Uniform;40;0
+Non-Deceptive Tight;Uniform;40;0
+Deceptive Random;Uniform;40;0
+Non-Deceptive Random;Uniform;40;0
+Counting;2-Point;150;24
+Deceptive Random;2-Point;160;0
+Non-Deceptive Random;2-Point;160;0
+Non-Deceptive Tight;2-Point;320;23
+Deceptive Tight;2-Point;320;12
+Deceptive Tight;Uniform;80;0
+Non-Deceptive Tight;Uniform;80;0
+Non-Deceptive Random;Uniform;80;1
+Deceptive Random;Uniform;80;0
+Non-Deceptive Tight;2-Point;640;25
+Deceptive Random;2-Point;320;0
+Non-Deceptive Random;2-Point;320;0
+Deceptive Tight;2-Point;640;24
+Non-Deceptive Tight;2-Point;480;25
+Non-Deceptive Tight;2-Point;400;25
+Deceptive Tight;2-Point;480;16
+Non-Deceptive Tight;Uniform;160;5
+Non-Deceptive Tight;2-Point;360;24
+Non-Deceptive Random;Uniform;160;0
+Deceptive Tight;Uniform;160;0
+Deceptive Random;Uniform;160;0
+Non-Deceptive Tight;2-Point;340;23
+Deceptive Tight;2-Point;560;24
+Deceptive Random;2-Point;640;0
+Non-Deceptive Random;2-Point;640;3
+Non-Deceptive Tight;2-Point;350;23
+Deceptive Tight;2-Point;520;21
+Deceptive Tight;2-Point;540;22
+Non-Deceptive Tight;Uniform;320;21
+Non-Deceptive Random;Uniform;320;22
+Deceptive Tight;2-Point;550;23
+Deceptive Tight;Uniform;320;0
+Deceptive Random;Uniform;320;0
+Non-Deceptive Random;2-Point;1280;5
+Deceptive Random;2-Point;1280;0
+Non-Deceptive Tight;Uniform;640;25
+Non-Deceptive Random;Uniform;640;25
+Non-Deceptive Tight;Uniform;480;24
+Non-Deceptive Random;Uniform;480;23
+Non-Deceptive Tight;Uniform;400;20
+Deceptive Tight;Uniform;640;0
+Deceptive Random;Uniform;640;0
+Non-Deceptive Random;Uniform;560;24
+Non-Deceptive Tight;Uniform;440;25
+Non-Deceptive Random;Uniform;520;25
+Non-Deceptive Tight;Uniform;420;23
+Non-Deceptive Tight;Uniform;430;21
+Non-Deceptive Random;Uniform;500;25
+Non-Deceptive Random;Uniform;490;25
+Deceptive Tight;Uniform;1280;0
+Deceptive Random;Uniform;1280;0
