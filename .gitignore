@@ -29,3 +29,4 @@ Temporary Items
 venv/
 __pycache__/
 .idea/
+.Rhistory
